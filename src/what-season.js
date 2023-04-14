@@ -11,10 +11,7 @@ const { NotImplementedError } = require('../extensions/index.js');
  * getSeason(new Date(2020, 02, 31)) => 'spring'
  * 
  */
-// let winter =  ;
-// let autumn =  ;
-// let summer =  ;
-// let spring =  ;
+
 function getSeason(date) {
 
 	console.log(date)
